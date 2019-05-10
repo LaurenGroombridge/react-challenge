@@ -1,0 +1,22 @@
+.card {
+  border-style: solid;
+  border-color: black;
+  width: 30vw;
+  height: 70vh;
+  margin-top: 5vh;
+  margin-left: 5vh;
+  .image {
+    background-image: url(https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg);
+    height: 25vh;
+  }
+  h1 {
+    position: cover;
+    margin-top: 0;
+    height: 10vh;
+  }
+  p {
+    margin-bottom: 0;
+    text-align: left;
+    padding: 10px;
+  }
+}
