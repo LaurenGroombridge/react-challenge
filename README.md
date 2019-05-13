@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project utilising React, JavaScript, TypeScript, Redux, html5, CSS, SASS
 
 ## Available Scripts
 
